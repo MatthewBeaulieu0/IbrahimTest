@@ -3,5 +3,5 @@ def sum(n):
     for i in range(n + 1):
         total += i
     return total
-
+#I LOVE IBRAHIM
 print(sum(50))
